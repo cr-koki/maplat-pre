@@ -1,0 +1,25 @@
+{
+    "appName" : {
+        "ja" : "福井市古地図アプリ",
+        "en" : "Historical Map Application of Fukui"
+    },
+    "homePosition" : [141.149989,39.699952],
+    "defaultZoom" : 17,
+    "startFrom" : "test",
+    "sources" : [
+        {
+            "mapID"       : "ort",
+            "label"       : "オルソ",
+            "settingFile" : "maps/ort.json",
+            "thumbnail"   : "tmbs/ort.jpg"
+        },
+        {
+            "mapID"       : "f-test",
+            "label"       : "test map",
+            "settingFile" : "maps/f-test.json",
+            "url"         : "tiles/f-test/{z}/{x}/{y}.png",
+            "thumbnail"   : "tmbs/f-test.jpg"
+        },
+        "osm"
+    ]
+}

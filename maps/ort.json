@@ -1,0 +1,8 @@
+{
+    "title" : "電子国土基本図（オルソ画像）",
+    "maptype": "base",
+    "url": "https://cyberjapandata.gsi.go.jp/xyz/ort/{z}/{x}/{y}.jpg",
+    "maxZoom": 18,
+    "attr":"国土地理院",
+    "description":"<a href=\"https://maps.gsi.go.jp/development/ichiran.html\">https://maps.gsi.go.jp/development/ichiran.html</a><br>国土地理院の「電子国土基本図（オルソ画像）」"
+}
