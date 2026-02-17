@@ -6,6 +6,9 @@
     "homePosition" : [141.149989,39.699952],
     "defaultZoom" : 17,
     "startFrom" : "test",
+    "pois": [
+        "pois/pois.geojson"
+    ],
     "sources" : [
         {
             "mapID"       : "ort",
